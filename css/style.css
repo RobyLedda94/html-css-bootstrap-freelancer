@@ -36,3 +36,41 @@
 .box{
     background-color: red;
 }
+
+
+
+/* BG CONTAINERS COLORS */
+.bg-light-green{
+    background-color:rgb(72 188 155) ;
+}
+
+.bg-dark-gray{
+    background-color: rgb(63 84 109);
+}
+
+
+/* BG CARDS COLOR */
+
+.bg-purple{
+    background-color: rgb(177 75 101);
+}
+
+.bg-green-aqua{
+    background-color: rgb(68 164 181);
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-light-blue{
+    background-color: rgb(58 131 193);
+}
+
+.bg-blue{
+    background-color: rgb(35 57 181);
+}
+
+.bg-light-brown{
+    background-color: rgb(201 178 163);
+}
