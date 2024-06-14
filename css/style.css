@@ -1,5 +1,6 @@
 
 
+/* STAR SELECTOR */
 
 *{
     margin: 0;
@@ -7,6 +8,9 @@
     box-sizing: border-box;
 }
 
+
+
+/* STYLE CLASS */
 .content-header{
     height: 70px;
     border: 1px solid black;
@@ -21,6 +25,11 @@
     min-height: 150px;
     border: 1px solid black;
     border-radius: 10px;
+}
+
+.content-footer{
+    height: 70px;
+    border: 1px solid black;
 }
 
 
