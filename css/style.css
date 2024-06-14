@@ -1,5 +1,28 @@
 
 
-.content-box-header{
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-header{
     height: 70px;
+}
+
+.content-main-jumbo{
+    min-height: 250px;
+    border: 1px solid black;
+}
+
+.content-main{
+    min-height: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+
+.box{
+    background-color: red;
 }
