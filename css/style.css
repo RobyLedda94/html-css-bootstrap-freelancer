@@ -31,10 +31,19 @@
     border: 1px solid black;
 }
 
-
-.box{
-    background-color: red;
+.content-main-jumbo > img{
+    width: 150px;
 }
+
+.star-icon::after, .star-icon::before{
+    content: "";
+    width: 70px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 
 
 
@@ -48,8 +57,5 @@
 }
 
 
-.content-main-jumbo > img{
-    width: 150px;
-}
 
 
