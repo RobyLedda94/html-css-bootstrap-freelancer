@@ -17,8 +17,7 @@
 }
 
 .content-main-jumbo{
-    min-height: 250px;
-    border: 1px solid black;
+    /* min-height: 250px; */
 }
 
 .content-main{
@@ -46,6 +45,11 @@
 
 .bg-dark-gray{
     background-color: rgb(63 84 109);
+}
+
+
+.content-main-jumbo > img{
+    width: 150px;
 }
 
 
