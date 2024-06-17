@@ -13,7 +13,7 @@
 /* STYLE CLASS */
 .content-header{
     height: 70px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .content-main-jumbo{
@@ -27,8 +27,8 @@
 }
 
 .content-footer{
-    height: 70px;
-    border: 1px solid black;
+    /* height: 70px; */
+    /* border: 1px solid black; */
 }
 
 .content-main-jumbo > img{
